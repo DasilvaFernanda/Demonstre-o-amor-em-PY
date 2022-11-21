@@ -1,2 +1,2 @@
-# Demosntre-o--amor-em-PY
-pequeno projeto em py feito para quem amo 
+# Demonstre-o-amor-em-PY
+pequeno projeto em py feito para quem eu amo 
